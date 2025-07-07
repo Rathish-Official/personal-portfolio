@@ -28,7 +28,7 @@ const projects = [
       "Personal Portfolio with ReactJS and TailwindCSS.",
     image: "/projects/project3.png",
     tags: ["React","TailwindCSS"],
-    demoUrl: "#",
+    demoUrl: "https://personal-portfolio-mu-ivory.vercel.app/",
     githubUrl: "https://github.com/Rathish-Official/personal-portfolio",
   },
 ];
