@@ -29,7 +29,7 @@ const projects = [
     image: "/projects/project3.png",
     tags: ["React","TailwindCSS"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Rathish-Official/personal-portfolio",
   },
 ];
 
